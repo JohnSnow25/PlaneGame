@@ -1,4 +1,4 @@
 # PlaneGame
 Plane Game
 
-this initate other commit new code to this project.
+Plane Game is imitate the wechat game.
